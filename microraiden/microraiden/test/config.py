@@ -13,3 +13,4 @@ SENDER_ETH_ALLOWANCE = int(0.5 * denoms.ether)
 SENDER_TOKEN_ALLOWANCE = 10**14
 RECEIVER_ETH_ALLOWANCE = int(0.5 * denoms.ether)
 RECEIVER_TOKEN_ALLOWANCE = 0
+TEST_RECEIVER_PRIVKEY = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
